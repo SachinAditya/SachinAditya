@@ -70,8 +70,7 @@ No illegal or unauthorized testing.
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/SachinAditya  
-- LinkedIn: (add your profile link here)
-
+- LinkedIn: linkedin.com/in/aditya-devraj-sachin
 ---
 
 ⭐ Always open to collaboration, open-source contributions, and security discussions.
