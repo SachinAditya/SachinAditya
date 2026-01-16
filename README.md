@@ -70,7 +70,43 @@ No illegal or unauthorized testing.
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/SachinAditya  
-- LinkedIn: linkedin.com/in/aditya-devraj-sachin
----
+- LinkedIn: https://linkedin.com/in/aditya-devraj-sachin
+
+
 
 ⭐ Always open to collaboration, open-source contributions, and security discussions.
+
+
+
+---
+
+## 📊 GitHub Stats
+
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinAditya&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SachinAditya&theme=tokyonight)
+
+---
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinAditya&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-black?style=for-the-badge&logo=owasp)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=SachinAditya&color=blue)
+
