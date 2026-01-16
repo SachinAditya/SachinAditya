@@ -82,21 +82,19 @@ No illegal or unauthorized testing.
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinAditya&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=SachinAditya&show_icons=true&theme=tokyonight" />
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SachinAditya&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=SachinAditya&theme=tokyonight" />
 
 ---
 
 ## 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinAditya&layout=compact&theme=tokyonight)
-
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinAditya&layout=compact&theme=tokyonight" />
 
 ## 🛠 Skills & Tools
 
