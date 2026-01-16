@@ -83,7 +83,7 @@ No illegal or unauthorized testing.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinAditya&show_icons=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinAditya&show_icons=true&cache_seconds=3600&v=1"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ No illegal or unauthorized testing.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SachinAditya" />
+  <img src="https://streak-stats.demolab.com?user=SachinAditya&v=1"/>
 </p>
 
 ---
@@ -99,7 +99,7 @@ No illegal or unauthorized testing.
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinAditya&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinAditya&layout=compact&cache_seconds=3600&v=1"/>
 </p>
 
 ## 🛠 Skills & Tools
