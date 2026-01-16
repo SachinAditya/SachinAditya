@@ -88,6 +88,9 @@ No illegal or unauthorized testing.
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinAditya&theme=github_dark)
 
+## 🔥 Contribution Streak
+
+![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinAditya&theme=github_dark&utcOffset=5.5)
 
 ## 🛠 Skills & Tools
 
