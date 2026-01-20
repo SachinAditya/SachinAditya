@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Sachin Vishwakarma (SachinAditya)
 
+![GitHub followers](https://img.shields.io/github/followers/SachinAditya?style=social)
+![GSoC](https://img.shields.io/badge/GSoC-2026%20Aspirant-orange)
+
 🎯 Aspiring Cybersecurity Engineer | OWASP Contributor | GSoC 2026 Aspirant  
 🔐 Focused on Web Security, Open Source & Security Automation
 
@@ -21,13 +24,11 @@ I actively contribute to OWASP projects and am preparing for **Google Summer of 
 ## 🏆 Open Source Contributions
 
 ### ✅ OWASP Dependency-Check
-- Documentation contribution merged  
-- PR: Documented external data sources & hostnames  
-🔗 https://github.com/dependency-check/DependencyCheck/pull/8219
+- 📘 Documentation: External data sources & hostnames — **[#8219](https://github.com/dependency-check/DependencyCheck/pull/8219)**
+- 🛠 Feature: Detect unused suppression sub-entries — **[#8236](https://github.com/dependency-check/DependencyCheck/pull/8236)**
 
-### ✅ OWASP ZAP
-- Documentation improvements in `zap-api-docs`
-- Working on API usage guidance & automation examples
+### 🔹 OWASP ZAP API Docs
+- ✍️ Improve API docs (ToC, guidance) — **[#247](https://github.com/zaproxy/zap-api-docs/pull/247)**
 
 ---
 
