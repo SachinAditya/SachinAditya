@@ -30,6 +30,9 @@ I actively contribute to OWASP projects and am preparing for **Google Summer of 
 ### 🔹 OWASP ZAP API Docs
 - ✍️ Improve API docs (ToC, guidance) — **[#247](https://github.com/zaproxy/zap-api-docs/pull/247)**
 
+### 🔹OWASP ZAP API Docs — Add general guidance for using the ZAP API with curl (#247)
+🔗 https://github.com/zaproxy/zap-api-docs/pull/247
+
 ---
 
 ## 🛠️ Security Projects & Tools
