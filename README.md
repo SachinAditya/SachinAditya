@@ -14,7 +14,7 @@ I am a cybersecurity enthusiast passionate about:
 
 - Web penetration testing  
 - Open-source security tools  
-- Writing clean, practical security documentation  
+- Writing clear, practical security documentation  
 - Automating security testing workflows  
 
 I actively contribute to OWASP projects and am preparing for **Google Summer of Code (GSoC) 2026** with a strong focus on real-world security tooling.
@@ -29,7 +29,11 @@ I actively contribute to OWASP projects and am preparing for **Google Summer of 
 
 ### 🔹 OWASP ZAP API Docs
 - ✍️ Improve API docs (ToC, guidance) — **[#247](https://github.com/zaproxy/zap-api-docs/pull/247)**
-  
+
+### OWASP WSTG (Web Security Testing Guide)
+- 📝 Fix cache control recommendations in section 4.4.6 — **[#1291](https://github.com/OWASP/wstg/pull/1291)**
+
+📅 January 2026: 4 merged PRs across OWASP projects
 ---
 
 ## 🛠️ Security Projects & Tools
