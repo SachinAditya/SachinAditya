@@ -21,17 +21,45 @@ I actively contribute to OWASP projects and am preparing for **Google Summer of 
 
 ---
 
+## 🎯 GSoC 2026 Focus
+
+I am actively preparing for **Google Summer of Code 2026**, with a primary interest in:
+
+- OWASP Dependency-Check
+- OWASP WSTG
+- OWASP tooling & documentation automation
+
+My focus areas:
+- Improving security tooling reliability
+- Documentation → code alignment
+- Reducing false positives & improving developer experience
+
+I am currently working on issues, PR reviews, and design discussions related to these areas.
+
+---
+
 ## 🏆 Open Source Contributions
 
 ### ✅ OWASP Dependency-Check
 - 📘 Documentation: External data sources & hostnames — **[#8219](https://github.com/dependency-check/DependencyCheck/pull/8219)**
-- 🛠 Feature: Detect unused suppression sub-entries — **[#8236](https://github.com/dependency-check/DependencyCheck/pull/8236)**
-
+- Documented all external data sources and hostnames contacted by Dependency-Check based on enabled analyzers and configuration
+- Added a clear, auditable table to help organizations with restricted or air-gapped networks create accurate allow-lists
+- Verified hostnames directly from the codebase and clarified indirect vs analyzer-specific network access
+- Improved enterprise adoption and reduced recurring support questions
+- Merged into main and included in release milestone **12.2.1**  
+  
 ### 🔹 OWASP ZAP API Docs
 - ✍️ Improve API docs (ToC, guidance) — **[#247](https://github.com/zaproxy/zap-api-docs/pull/247)**
+- Added general guidance for using the ZAP API with curl, addressing common pitfalls such as parameter encoding and boolean handling
+- Improved API usability without modifying generated or endpoint-specific documentation
+- Incorporated maintainer feedback to keep the change narrowly scoped and maintainable
+- Reduced recurring user errors when interacting with the ZAP API via curl
 
-### OWASP WSTG (Web Security Testing Guide)
-- 📝 Fix cache control recommendations in section 4.4.6 — **[#1291](https://github.com/OWASP/wstg/pull/1291)**
+
+
+### 🧪 OWASP WSTG (Web Security Testing Guide)
+- 📝 Fixed outdated cache-control security guidance by aligning recommendations with modern browser behavior and current best practices (e.g., Cache-Control: no-store), improving the accuracy of security testing outcomes and reducing tester confusion. **[#1291](https://github.com/OWASP/wstg/pull/1291)**
+---
 
 📅 January 2026: 4 merged PRs across OWASP projects
 ---
