@@ -41,7 +41,8 @@ I am currently working on issues, PR reviews, and design discussions related to 
 ## 🏆 Open Source Contributions
 
 ### ✅ OWASP Dependency-Check
-- 📘 Documentation: External data sources & hostnames — **[#8219](https://github.com/dependency-check/DependencyCheck/pull/8219)**
+- 📘 Documentation: External data sources & hostnames — **[#8219](https://github.com/jeremylong/DependencyCheck/pull/8219)**
+*
 - Documented all external data sources and hostnames contacted by Dependency-Check based on enabled analyzers and configuration
 - Added a clear, auditable table to help organizations with restricted or air-gapped networks create accurate allow-lists
 - Verified hostnames directly from the codebase and clarified indirect vs analyzer-specific network access
@@ -66,6 +67,11 @@ I am currently working on issues, PR reviews, and design discussions related to 
 - Authored a humorous, scenario-driven threat description aligned with **MASVS** and **MASTG**  
 - Followed established STRIDE categorization patterns (AA2/AA3 examples)  
 - Reviewed and merged by project maintainers
+
+### ⚙️ OWASP OWTF (Active Contributions)
+- Platform-related improvements across backend and frontend components  
+  PRs currently under maintainer review
+
 
 📅 January 2026: 4 merged PRs across OWASP projects
 ---
