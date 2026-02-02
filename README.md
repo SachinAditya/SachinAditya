@@ -61,6 +61,12 @@ I am currently working on issues, PR reviews, and design discussions related to 
 - 📝 Fixed outdated cache-control security guidance by aligning recommendations with modern browser behavior and current best practices (e.g., Cache-Control: no-store), improving the accuracy of security testing outcomes and reducing tester confusion. **[#1291](https://github.com/OWASP/wstg/pull/1291)**
 ---
 
+### 🎴 OWASP Cornucopia (Mobile App Edition)
+🎮 Playful STRIDE-aligned AA4 card description — **[#2113](https://github.com/OWASP/cornucopia/pull/2113)**  
+- Authored a humorous, scenario-driven threat description aligned with **MASVS** and **MASTG**  
+- Followed established STRIDE categorization patterns (AA2/AA3 examples)  
+- Reviewed and merged by project maintainers
+
 📅 January 2026: 4 merged PRs across OWASP projects
 ---
 
