@@ -42,7 +42,6 @@ I am currently working on issues, PR reviews, and design discussions related to 
 
 ### ✅ OWASP Dependency-Check
 - 📘 Documentation: External data sources & hostnames — **[#8219](https://github.com/jeremylong/DependencyCheck/pull/8219)**
-*
 - Documented all external data sources and hostnames contacted by Dependency-Check based on enabled analyzers and configuration
 - Added a clear, auditable table to help organizations with restricted or air-gapped networks create accurate allow-lists
 - Verified hostnames directly from the codebase and clarified indirect vs analyzer-specific network access
@@ -68,12 +67,15 @@ I am currently working on issues, PR reviews, and design discussions related to 
 - Followed established STRIDE categorization patterns (AA2/AA3 examples)  
 - Reviewed and merged by project maintainers
 
-### ⚙️ OWASP OWTF (Active Contributions)
-- Platform-related improvements across backend and frontend components  
-  PRs currently under maintainer review
+### ⚙️ OWASP OWTF
+- 🔒 Fixed broken external documentation links and improved external link security — **[#1345](https://github.com/owtf/owtf/pull/1345)**
+- Added `rel="noopener noreferrer"` to prevent reverse tabnabbing attacks
+- Removed outdated IRC (Freenode) reference and aligned with current OWASP communication channels
+- Addressed maintainer feedback and successfully merged into `develop`
 
 
-📅 January 2026: 4 merged PRs across OWASP projects
+
+📅 Jan–Feb 2026: 5 merged PRs across OWASP projects
 ---
 
 ## 🛠️ Security Projects & Tools
