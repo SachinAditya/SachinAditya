@@ -73,6 +73,12 @@ I am currently working on issues, PR reviews, and design discussions related to 
 - Removed outdated IRC (Freenode) reference and aligned with current OWASP communication channels
 - Addressed maintainer feedback and successfully merged into `develop`
 
+### 🎴 OWASP Cornucopia (Website App Edition v3.0)
+🌍 Complete Hindi Translation of WebApp Card Deck — PR #2247
+Authored the full Hindi translation for all suits, cards, and paragraphs
+Preserved structure, IDs, URLs, and ordering to maintain compatibility
+Addressed reviewer feedback (card swaps, wording clarifications, consistency updates)
+Successfully merged into the master branch
 
 
 📅 Jan–Feb 2026: 5 merged PRs across OWASP projects
