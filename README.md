@@ -81,7 +81,7 @@ Addressed reviewer feedback (card swaps, wording clarifications, consistency upd
 Successfully merged into the master branch
 
 
-📅 Jan–Feb 2026: 5 merged PRs across OWASP projects
+📅 Jan–Feb 2026: 6 merged PRs across OWASP projects
 ---
 
 ## 🛠️ Security Projects & Tools
