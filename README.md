@@ -40,14 +40,15 @@ I am currently working on issues, PR reviews, and design discussions related to 
 
 ## 🏆 Open Source Contributions
 
-### ✅ OWASP Dependency-Check
-- 📘 Documentation: External data sources & hostnames — **[#8219](https://github.com/jeremylong/DependencyCheck/pull/8219)**
-- Documented all external data sources and hostnames contacted by Dependency-Check based on enabled analyzers and configuration
-- Added a clear, auditable table to help organizations with restricted or air-gapped networks create accurate allow-lists
-- Verified hostnames directly from the codebase and clarified indirect vs analyzer-specific network access
-- Improved enterprise adoption and reduced recurring support questions
-- Merged into main and included in release milestone **12.2.1**  
-  
+✅ OWASP Dependency-Check
+📘 Documentation: External data sources & hostnames — #8219
+Documented all external data sources and hostnames contacted by Dependency-Check based on enabled analyzers and configuration
+Added a clear, auditable table to help organizations with restricted or air-gapped networks create accurate allow-lists
+Verified hostnames directly from the codebase and clarified indirect vs analyzer-specific network access
+Improved enterprise adoption and reduced recurring support questions
+Merged into main and included in release milestone 12.2.1
+
+
 ### 🔹 OWASP ZAP API Docs
 - ✍️ Improve API docs (ToC, guidance) — **[#247](https://github.com/zaproxy/zap-api-docs/pull/247)**
 - Added general guidance for using the ZAP API with curl, addressing common pitfalls such as parameter encoding and boolean handling
