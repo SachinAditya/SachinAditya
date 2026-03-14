@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/SachinAditya?style=social)
 ![GSoC](https://img.shields.io/badge/GSoC-2026%20Aspirant-orange)
 
-🎯 Aspiring Cybersecurity Engineer | OWASP Contributor | GSoC 2026 Aspirant  
+🎯 Cybersecurity Enthusiast | OWASP Open-Source Contributor | GSoC 2026 Aspirant  
 🔐 Focused on Web Security, Open Source & Security Automation
 
 ---
@@ -38,10 +38,10 @@ I am currently working on issues, PR reviews, and design discussions related to 
 
 ---
 
-## 🏆 Open Source Contributions
+## 🏆 Open Source Contributions (OWASP & Security Projects)
 
 ✅ OWASP Dependency-Check
-📘 Documentation: External data sources & hostnames — #8219
+📘 Documentation: External data sources & hostnames — **[#8219](https://github.com/jeremylong/DependencyCheck/pull/8219)**
 Documented all external data sources and hostnames contacted by Dependency-Check based on enabled analyzers and configuration
 Added a clear, auditable table to help organizations with restricted or air-gapped networks create accurate allow-lists
 Verified hostnames directly from the codebase and clarified indirect vs analyzer-specific network access
@@ -68,21 +68,30 @@ Merged into main and included in release milestone 12.2.1
 - Followed established STRIDE categorization patterns (AA2/AA3 examples)  
 - Reviewed and merged by project maintainers
 
+### 🎴 OWASP Cornucopia (Website App Edition v3.0)
+🌍 Complete Hindi Translation of WebApp Card Deck — **[#2247](https://github.com/OWASP/cornucopia/pull/2247)**
+Authored the full Hindi translation for all suits, cards, and paragraphs
+Preserved structure, IDs, URLs, and ordering to maintain compatibility
+Addressed reviewer feedback (card swaps, wording clarifications, consistency updates)
+Successfully merged into the master branch
+
+ ### 🔧 Localization Improvements & Contributions
+
+Pull Request: #2565
+Contributed additional improvements to the Hindi localization for the Cornucopia card deck
+Helped improve translation accuracy, consistency, and readability
+Ensured technical security terminology remained aligned with the English source
+Collaborated with maintainers and community reviewers
+
 ### ⚙️ OWASP OWTF
 - 🔒 Fixed broken external documentation links and improved external link security — **[#1345](https://github.com/owtf/owtf/pull/1345)**
 - Added `rel="noopener noreferrer"` to prevent reverse tabnabbing attacks
 - Removed outdated IRC (Freenode) reference and aligned with current OWASP communication channels
 - Addressed maintainer feedback and successfully merged into `develop`
 
-### 🎴 OWASP Cornucopia (Website App Edition v3.0)
-🌍 Complete Hindi Translation of WebApp Card Deck — PR #2247
-Authored the full Hindi translation for all suits, cards, and paragraphs
-Preserved structure, IDs, URLs, and ordering to maintain compatibility
-Addressed reviewer feedback (card swaps, wording clarifications, consistency updates)
-Successfully merged into the master branch
 
 
-📅 Jan–Feb 2026: 6 merged PRs across OWASP projects
+📊 Multiple merged PRs across OWASP projects including Cornucopia, WSTG, OWTF, Dependency-Check, and ZAP.
 ---
 
 ## 🛠️ Security Projects & Tools
