@@ -28,6 +28,7 @@ I am actively preparing for **Google Summer of Code 2026**, with a primary inter
 - OWASP Dependency-Check
 - OWASP WSTG
 - OWASP tooling & documentation automation
+- OWASP Cornucopia
 
 My focus areas:
 - Improving security tooling reliability
