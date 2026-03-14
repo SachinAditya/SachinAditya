@@ -75,7 +75,7 @@ Preserved structure, IDs, URLs, and ordering to maintain compatibility
 Addressed reviewer feedback (card swaps, wording clarifications, consistency updates)
 Successfully merged into the master branch
 
- ### 🔧 Localization Improvements & Contributions
+ ### 🎴 OWASP Cornucopia
 
 Pull Request: #2565
 Contributed additional improvements to the Hindi localization for the Cornucopia card deck
