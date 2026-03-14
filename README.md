@@ -39,10 +39,36 @@ I am currently working on issues, PR reviews, and design discussions related to 
 
 ---
 
+## ⭐ Key Open Source Contributions
+
+• OWASP Cornucopia – Hindi card deck translation & improvements  
+• OWASP Dependency-Check – External data source documentation  
+• OWASP WSTG – Updated cache-control testing guidance  
+• OWASP ZAP API Docs – API usage improvements  
+• OWASP OWTF – Security improvements to external links
+
 ## 🏆 Open Source Contributions (OWASP & Security Projects)
 
-✅ OWASP Dependency-Check
+### 🎴 OWASP Cornucopia (Mobile App Edition)
+🎮 Playful STRIDE-aligned AA4 card description — **[#2113](https://github.com/OWASP/cornucopia/pull/2113)**  
+- Authored a humorous, scenario-driven threat description aligned with **MASVS** and **MASTG**  
+- Followed established STRIDE categorization patterns (AA2/AA3 examples)  
+- Reviewed and merged by project maintainers
 
+### 🎴 OWASP Cornucopia (Website App Edition v3.0)
+🌍 Complete Hindi Translation of WebApp Card Deck — **[#2247](https://github.com/OWASP/cornucopia/pull/2247)**
+Authored the full Hindi translation for all suits, cards, and paragraphs
+Preserved structure, IDs, URLs, and ordering to maintain compatibility
+Addressed reviewer feedback (card swaps, wording clarifications, consistency updates)
+Successfully merged into the master branch
+
+### 🎴 OWASP Cornucopia
+🌍 Hindi Localization Improvements — **[#2565](https://github.com/OWASP/cornucopia/pull/2565)**
+- Improved translation accuracy and readability
+- Ensured technical terminology aligned with the English source
+- Collaborated with maintainers and community reviewers
+  
+✅ OWASP Dependency-Check
 📘 Documentation: External data sources & hostnames — **[#8219](https://github.com/jeremylong/DependencyCheck/pull/8219)**
 Documented all external data sources and hostnames contacted by Dependency-Check based on enabled analyzers and configuration
 Added a clear, auditable table to help organizations with restricted or air-gapped networks create accurate allow-lists
@@ -64,26 +90,6 @@ Merged into main and included in release milestone 12.2.1
 - 📝 Fixed outdated cache-control security guidance by aligning recommendations with modern browser behavior and current best practices (e.g., Cache-Control: no-store), improving the accuracy of security testing outcomes and reducing tester confusion. **[#1291](https://github.com/OWASP/wstg/pull/1291)**
 ---
 
-### 🎴 OWASP Cornucopia (Mobile App Edition)
-🎮 Playful STRIDE-aligned AA4 card description — **[#2113](https://github.com/OWASP/cornucopia/pull/2113)**  
-- Authored a humorous, scenario-driven threat description aligned with **MASVS** and **MASTG**  
-- Followed established STRIDE categorization patterns (AA2/AA3 examples)  
-- Reviewed and merged by project maintainers
-
-### 🎴 OWASP Cornucopia (Website App Edition v3.0)
-🌍 Complete Hindi Translation of WebApp Card Deck — **[#2247](https://github.com/OWASP/cornucopia/pull/2247)**
-Authored the full Hindi translation for all suits, cards, and paragraphs
-Preserved structure, IDs, URLs, and ordering to maintain compatibility
-Addressed reviewer feedback (card swaps, wording clarifications, consistency updates)
-Successfully merged into the master branch
-
- ### 🎴 OWASP Cornucopia
-
-Pull Request: #2565
-Contributed additional improvements to the Hindi localization for the Cornucopia card deck
-Helped improve translation accuracy, consistency, and readability
-Ensured technical security terminology remained aligned with the English source
-Collaborated with maintainers and community reviewers
 
 ### ⚙️ OWASP OWTF
 - 🔒 Fixed broken external documentation links and improved external link security — **[#1345](https://github.com/owtf/owtf/pull/1345)**
